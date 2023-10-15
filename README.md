@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruval Bhuva</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, AI**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, AI**
 
 - 👨‍💻 Portfolio : [https://dhruvalbhuva.github.io/Portfolio/](https://dhruvalbhuva.github.io/Portfolio/)
 
